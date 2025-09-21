@@ -1,0 +1,5 @@
+YOLOP/runs/
+YOLOP/weights/
+__pycache__/
+*.mp4
+*.avi
